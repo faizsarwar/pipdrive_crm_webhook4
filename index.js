@@ -21,6 +21,8 @@ app.post("/webhook",express.json(),async (request,response)=>{
         let person_email=request.body.data.customer.email;
         let person_addtime=request.body.data.created_at;
         let productName=request.body.data.product.name;
+        let additional_data=request.body.data.additional
+    
     
         // get_post.create_person(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
         console.log(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
@@ -38,7 +40,7 @@ app.post("/webhook",express.json(),async (request,response)=>{
         //creating deal
         let deal_tittle=person_name+" "+productName;
 
-        let dealId=await get_post.create_deal(deal_tittle,personId)
+        let dealId=await get_post.create_deal(deal_tittle,personId,additional_data)
 
         // console.log(lead_name,deal_tittle)
 
