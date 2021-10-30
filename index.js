@@ -23,7 +23,6 @@ app.post("/webhook",express.json(),async (request,response)=>{
         let productName=request.body.data.product.name;
         let additional_data=request.body.data.additional
     
-    
         // get_post.create_person(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
         console.log(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
         

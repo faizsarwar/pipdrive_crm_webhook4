@@ -37,13 +37,13 @@ let myobj={
 }
 
 
-let note=''
+// let note=''
 
 let additional_data =myobj.data.additional
-for (i in additional_data){
-console.log(i+" :  "+additional_data[i]) 
-note+=i+" :  "+additional_data[i]
-note+="\n"
-}
-console.log(note)
+// for (i in additional_data){
+// console.log(i+" :  "+additional_data[i]) 
+// note+=i+" :  "+additional_data[i]
+// note+="\n"
+// }
+console.log(additional_data['street'])
 
