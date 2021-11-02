@@ -1,0 +1,1883 @@
+{
+    "AmTrust Financial":{
+        "phone":{
+         "claim": "1 (866) 272-9267"	 ,
+         "service":   "1 (877) 528-7878"
+        },
+        "links":{
+            "claim":"https://amtrustgroup.com/small-business-insurance/claims/claim-center",
+            "Billing":"https://amtrustgroup.com/small-business-insurance/policyholders/payment-options",
+            "website":"https://amtrustgroup.com/small-business-insurance"
+        }
+    },
+    "Apogee Insurance Group":{
+        "phone":{
+         "claim": "1 (877) 337-3200"	 ,
+         "service":   "1 (877) 337-3200"
+        },
+        "links":{
+            "claim":"http://www.apogeeinsgroup.com/about-us",
+            "Billing":"http://www.apogeeinsgroup.com/about-us",
+            "website":"http://www.apogeeinsgroup.com/"
+        }
+    },
+    "Berkshire Hathaway GUARD":{
+        "phone":{
+         "claim":"1 (800) 673-2465",
+         "service":  "1 (800) 673-2465" 
+        },
+        "links":{
+            "claim":"https://www.guard.com/customer_service-form.htm",
+            "Billing":"https://www.guard.com/customer_service-billing.htm",
+            "website":"https://www.guard.com/"
+        }
+    },
+    "CNA Surety":{
+        "phone":{
+         "claim": "1 (877) 672-6115"	 ,
+         "service":   "1 (800) 331-6053"
+        },
+        "links":{
+            "claim":"https://www.cnasurety.com/cna/guest/cnasurety/claimservices/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJNDLy9Q3xMQo28TF0cDTz9_IIDLB2djP19DIAKIoEKDHAARwNC-r30o9Jz8pOAVoXrR4EV4zHLzyM_N1W_IDeiMsTEUREAkW7Uwg!!/dl4/d5/L2dJQSEvUUt3QS80SmtFL1o2XzQwS0tUTDRVMko1REEwSU5OU1A5QUIzTzY3/",
+            "Billing":"https://onlinepay.cnasurety.com/EpayWeb/",
+            "website":"https://www.cnasurety.com/cna/guest/cnasurety/"
+        }
+    },
+    "FMI":{
+        "phone":{
+         "claim": "1 (800) 336-3642"	 ,
+         "service":   "1 (973) 948-3120"
+        },
+        "links":{
+            "claim":"https://www.fmiweb.com/html/claim_form.cfm",
+            "Billing":"https://www.fmiweb.com/html/policy_holder_log_in.cfm",
+            "website":"https://www.fmiweb.com/site/"
+        }
+    },
+    "LLOYD'S":{
+        "phone":{
+         "claim":"1-800-749-6419",
+         "service":"+44 (0)20 7327 1000"   
+        },
+        "links":{
+            "claim":"https://www.lloyds.com/about-lloyds/claims",
+            "Billing":"https://www.lloyds.com/contact-us",
+            "website":"https://www.lloyds.com/"
+        }
+    },
+    "Philadelphia Insurance Companies":{
+        "phone":{
+         "claim":"1 (800) 765-9749",
+         "service":"1 (877) 438-7459"   
+        },
+        "links":{
+            "claim":"https://www.phly.com/AboutPHLY/Claims/Default.aspx?nav=top",
+            "Billing":"https://www.phly.com/AboutPHLY/ContactUS/pay-my-bills.aspx",
+            "website":"https://www.phly.com/"
+        }
+    },
+    "Plymouth Rock Assurance":{
+        "phone":{
+         "claim":"1 (888) 324‑1620",
+         "service":"1 (866) 353-6292"   
+        },
+        "links":{
+            "claim":"https://www.plymouthrock.com/claims",
+            "Billing":"https://www.plymouthrock.com/resource-center/manage-your-policy",
+            "website":"https://www.plymouthrock.com/resource-center/ma-insurance-guides"
+        }
+    },
+    "Progressive":{
+        "phone":{
+         "claim":"1 (800) 274-4499",
+         "service":   "1 (855) 758-0943"
+        },
+        "links":{
+            "claim":"https://onlineservice4.progressive.com/SelfService.Web/SelfService.aspx?Page=Login.AuthenticateUser&QueryStringSetKey=SessionGateway&OfferingID=SelfService&SessionStart=TRUE&FD=AuthKeyClaimService",
+            "Billing":"https://onlineservice4.progressive.com/SelfService.Web/SelfService.aspx?Page=Login.AuthenticateUser&QueryStringSetKey=SessionGateway&OfferingID=SelfService&SessionStart=TRUE&FD=AuthKeyClaimService",
+            "website":"https://www.progressive.com/"
+        }
+    },
+    "The Hartford":{
+        "phone":{
+         "claim":"1 (800) 243-5860",
+         "service":   "1 (860) 547-5000"
+        },
+        "links":{
+            "claim":"https://service.thehartford.com/consumer/public/service/login",
+            "Billing":"https://service.thehartford.com/consumer/public/service/login",
+            "website":"https://www.thehartford.com/"
+        }
+    },
+    "Travelers":{
+        "phone":{
+         "claim": "1 (800) 238-6225",
+         "service":   "1 (800) 842-5075"
+        },
+        "links":{
+            "claim":"https://www.travelers.com/claims/report-claim/index.aspx",
+            "Billing":"https://www.travelers.com/pay-your-bill.aspx",
+            "website":"https://www.travelers.com/"
+        }
+    },
+    "Tapco Underwriters, Inc.":{
+        "phone":{
+         "claim": "1 (800) 334-5579",
+         "service":   "1 (800) 334-5579"
+        },
+        "links":{
+            "claim":"https://secure.gotapco.com/#/claimsProcedure",
+            "Billing":"https://secure.gotapco.com/#/Home",
+            "website":"https://secure.gotapco.com/#/Home"
+        }
+    },
+   "Utica National Insurance Group":{
+    "phone":{
+     "claim": "1 (800) 216-1420"	 ,
+     "service":   "1 (781) 224-2600"
+    },
+    "links":{
+        "claim":"http://www.uticanational.com/insurance/claims/claims-main.aspx",
+        "Billing":"http://www.uticanational.com/insurance/billing.aspx",
+        "website":"http://www.uticanational.com/Insurance/index.aspx"
+    }
+},
+    "ACE":{
+        "phone":{
+         "claim":" 1 (800) 444-6161",
+         "service":"1 (800) 444-6161"   
+        },
+        "links":{
+            "claim":"https://policycenter.aceprivateriskservices.com/billing/personalfaq.cfm?payer=0&Policy=No",
+            "Billing":"https://secure4.billerweb.com/apr/JustPayIt/jpt.do",
+            "website":"https://policycenter.aceprivateriskservices.com/policyholder/"
+        }
+    },
+    "A Central Insurance Co.":{
+        "phone":{
+         "claim":"1 (800) 234-6926",
+         "service":"1 (800) 234-6926"   
+        },
+        "links":{
+            "claim":"https://www.nycm.com/claims/",
+            "Billing":"https://www.nycm.com/myaccount/",
+            "website":"https://www.nycm.com/"
+        }
+    },
+    "Adirondack Insurance Exchange":{
+        "phone":{
+         "claim":" 1 (877) 629-8003",
+         "service":   "1 (877) 629-8003"
+        },
+        "links":{
+            "claim":"https://www.aie-ny.com/services/claims.aspx",
+            "Billing":"https://www.aie-ny.com/services/billing.aspx",
+            "website":"https://www.aie-ny.com/"
+        }
+    },
+    "Admiral Insurance Group":{
+        "phone":{
+         "claim":"1 (856)-429-9200"	,
+         "service":  "admclaims@admiralins.com" 
+        },
+        "links":{
+            "claim":"https://www.admiralins.com/claims/",
+            "Billing":"https://www.admiralins.com/contact-us/",
+            "website":"https://www.admiralins.com/"
+        }
+    },
+    "Aflac":{
+        "phone":{
+         "claim":" 1 (800) 992-3522",
+         "service":   "1 (800) 992-3522"
+        },
+        "links":{
+            "claim":"https://www.aflac.com/individuals/file-a-claim/default.aspx",
+            "Billing":"https://www.aflac.com/individuals/one-day-pay/default.aspx",
+            "website":"https://www.aflac.com/individuals/default.aspx"
+        }
+    },
+    "AIG":{
+        "phone":{
+         "claim":"1 (800) 767-2524",
+         "service":   "1 (800) 767-2524"
+        },
+        "links":{
+            "claim":"http://www.aig.com/claims",
+            "Billing":"http://www.aig.com/individual/insurance/private-client-group/make-a-payment",
+            "website":"http://www.aig.com/home?cmpid=KNC-Google-aig-AIG-General-E-aig"
+        }
+    },
+    "Allegany Insurance Group":{
+        "phone":{
+         "claim":" 1 (877) 346-0300",
+         "service":   "1 (800) 333-1679"
+        },
+        "links":{
+            "claim":"http://www.alleganygroup.com/",
+            "Billing":"http://www.alleganygroup.com/payment.php",
+            "website":"http://www.alleganygroup.com/"
+        }
+    },
+    "Allianz Global Assistance":{
+        "phone":{
+         "claim":" 1 (416) 340-0049",
+         "service":   "1 (416) 340-0049"
+        },
+        "links":{
+            "claim":"https://www.allianz-assistance.ca/en/help-for-customers/how-to-file-a-claim/",
+            "Billing":"https://www.allianz-assistance.ca/en/contact.aspx",
+            "website":"https://www.allianz-assistance.ca/en/"
+        }
+    },
+    "AlliedTrust":{
+        "phone":{
+         "claim":"(844) 200-2842",
+         "service":   "1 (281) 833-1400"
+        },
+        "links":{
+            "claim":"http://www.alliedtrustins.com/claims-process/",
+            "Billing":"http://www.alliedtrustins.com/contact-us/",
+            "website":"http://www.alliedtrustins.com/"
+        }
+    },
+    "Allstate":{
+        "phone":{
+         "claim":" 1 (877) 810-2920",
+         "service":   "1 (877) 810-2920"
+        },
+        "links":{
+            "claim":"https://www.allstate.com/claims/report-claim.aspx",
+            "Billing":"https://www.allstate.com/support/payment-and-billing.aspx",
+            "website":"https://www.allstate.com/"
+        }
+    },
+    "American Capital Assurance (AmCap)":{
+        "phone":{
+         "claim":" 1 (800) 591-0535",
+         "service":   "1 (800) 591-0535"
+        },
+        "links":{
+            "claim":"https://www.amcapins.com/ourcommitments/",
+            "Billing":"https://www.amcapins.com/contact/",
+            "website":"https://www.amcapins.com/"
+        }
+    },
+    "American Collectors Insurance":{
+        "phone":{
+         "claim":" 1 (800) 360-2277",
+         "service":   "1 (800) 360-2277"
+        },
+        "links":{
+            "claim":"http://americancollectors.com/filing-a-claim/",
+            "Billing":"https://quote.americancollectors.com/AcctMgmt/S/Manage/",
+            "website":"http://americancollectors.com/"
+        }
+    },
+    "American Integrity Insurance":{
+        "phone":{
+         "claim":" 1 (866) 277-9871",
+         "service":   "1 (866) 968-8390"
+        },
+        "links":{
+            "claim":"https://aiicfl.com/manage-claims",
+            "Billing":"https://aiicfl.com/contact-us",
+            "website":"https://aiicfl.com/"
+        }
+    },
+    "American Modern":{
+        "phone":{
+         "claim":" 1 (800) 375-2075",
+         "service":   "1 (800) 543-2644"
+        },
+        "links":{
+            "claim":"http://www.amig.com/customer/file-a-claim/",
+            "Billing":"https://ssweb.amig.com/mobilePay/mobilepay/main/startPage",
+            "website":"http://www.amig.com/"
+        }
+    },
+    "American Strategic Insurance":{
+        "phone":{
+         "claim":" 1 (866) 274-5677",
+         "service":   "1 (866) 274-8765"
+        },
+        "links":{
+            "claim":"https://www.americanstrategic.com/claims_center/report_claim.aspx",
+            "Billing":"https://my.asipolicy.com/profile/login?ReturnUrl=%2f",
+            "website":"https://www.americanstrategic.com/"
+        }
+    },
+    "American Traditions Insurance":{
+        "phone":{
+         "claim":" 1 (866) 270-8430",
+         "service":   "1 (866) 561-3433"
+        },
+        "links":{
+            "claim":"https://www.jergermga.com/Policyholders/File-a-Claim",
+            "Billing":"https://www.jergermga.com/Contact",
+            "website":"https://www.jergermga.com/"
+        }
+    },
+    "Arbella":{
+        "phone":{
+         "claim":" 1 (800) 272-3552",
+         "service":   "1 (800) 272-3552"
+        },
+        "links":{
+            "claim":"http://www.arbella.com/claimshttp://www.arbella.com/claims",
+            "Billing":"http://www.arbella.com/pay-your-insurance-bill",
+            "website":"http://www.arbella.com/"
+        }
+    },
+    "Arch Insurance":{
+        "phone":{
+         "claim":" 1 (877) 688 ARCH (2724)",
+         "service":   "1 (914) 872-3600"
+        },
+        "links":{
+            "claim":"https://www.archcapgroup.com/Insurance/Regions/United-States/Claims",
+            "Billing":"https://www.archcapgroup.com/Insurance",
+            "website":"https://www.archcapgroup.com/Insurance"
+        }
+    },
+    "Arrowhead General":{
+        "phone":{
+         "claim":" 1 (619) 744-500",
+         "service":   "1 (619) 744-500"
+        },
+        "links":{
+            "claim":"http://www.arrowheadgrp.com/claims/",
+            "Billing":"http://www.arrowheadgrp.com/contact/",
+            "website":"http://www.arrowheadgrp.com/"
+        }
+    },
+    "Associated Marine":{
+        "phone":{
+         "claim":" 1 (800) 631-2147",
+         "service":   "1 (800) 631-2147"
+        },
+        "links":{
+            "claim":"http://marineunderwriters.com/insurance-claim/",
+            "Billing":"http://marineunderwriters.com/contact-us/",
+            "website":"http://www.msagroup.com/policyholder/reportingClaims.cfm"
+        }
+    },
+    "Atlantic Casualty Insurance Company":{
+        "phone":{
+         "claim":" 1 (877) 222-5522",
+         "service":   "1 (877) 225-5744"
+        },
+        "links":{
+            "claim":"https://www.atlanticcasualty.net/claims/",
+            "Billing":"https://www.atlanticcasualty.net/contact/",
+            "website":"https://www.atlanticcasualty.net/"
+        }
+    },
+    "Auto-Owners Insurance Group":{
+        "phone":{
+         "claim":" 1 (517) 323-1200",
+         "service":"1 (517) 323-1200"   
+        },
+        "links":{
+            "claim":"https://www.auto-owners.com/claims/claims-overview",
+            "Billing":"https://www.auto-owners.com/about/contact-us/billing",
+            "website":"https://www.auto-owners.com/"
+        }
+    },
+    "Auto-Owners Insurance Group (Flood)":{
+        "phone":{
+         "claim":" 1 (877) 254-6819",
+         "service":   "1 (517) 323-1200"
+        },
+        "links":{
+            "claim":"https://www.auto-owners.com/claims/claims-overview",
+            "Billing":"https://www.auto-owners.com/about/contact-us/billing",
+            "website":"https://www.auto-owners.com/insurance/flood"
+        }
+    },
+    "Avatar Insurance":{
+        "phone":{
+         "claim":" 1 (877) 233-3237",
+         "service":   "1 (877) 233-3238"
+        },
+        "links":{
+            "claim":"http://www.avatarins.com/fileclaim.php",
+            "Billing":"https://avatardirect.avatarins.com/avatar/avatarselfservice/OnlinePayment",
+            "website":"http://www.avatarins.com/index.php"
+        }
+    },
+    "Aviva":{
+        "phone":{
+         "claim":" 1 (866) 692-8482",
+         "service":   "1 (866) 692-8482"
+        },
+        "links":{
+            "claim":"https://www.avivacanada.com/",
+            "Billing":"https://www.avivacanada.com/basic-page/pay-credit-card",
+            "website":"https://www.avivacanada.com/"
+        }
+    },
+    "Axis":{
+        "phone":{
+         "claim":"not available",
+         "service":   "not availavble"
+        },
+        "links":{
+            "claim":"http://www.axiscapital.com/about-axis/about-claims",
+            "Billing":"http://www.axiscapital.com/corp/contact-us",
+            "website":"http://www.axiscapital.com/"
+        }
+    },
+    "Bank Direct":{
+        "phone":{
+         "claim":" 1 (877) 226-5456",
+         "service":   "1 (877) 226-5456"
+        },
+        "links":{
+            "claim":"https://www.bankdirectcapital.com/default.aspx",
+            "Billing":"https://www.bankdirectcapital.com/bankdirect-payment-options.aspx",
+            "website":"https://www.bankdirectcapital.com/default.aspx"
+        }
+    },
+    "Bankers Insurance Group":{
+        "phone":{
+         "claim":" 1 (800) 765-9700",
+         "service":   "1 (800) 627-0000"
+        },
+        "links":{
+            "claim":"https://www.bankersinsurance.com/claims-support.html",
+            "Billing":"https://www.bankersinsurance.com/home.html",
+            "website":"https://www.bankersinsurance.com/home.html"
+        }
+    },
+    "Banner Life™":{
+        "phone":{
+         "claim":" 1 (800) 638-8428 ext. 6974",
+         "service":   "1 (800) 638-8428"
+        },
+        "links":{
+            "claim":"https://www.bankersinsurance.com/claims-support.html",
+            "Billing":"http://www.agencyrevolutionwebsites.com/19555e57-83cd-4b0c-aec4-97ad320bf75b/companies-we-represent",
+            "website":"https://www.lgamerica.com/corporate/contact"
+        }
+    },
+    "Bass Underwriters":{
+        "phone":{
+         "claim":" 1 (888) 422-7715",
+         "service":   "1 (888) 422-7715"
+        },
+        "links":{
+            "claim":"https://www.bassuw.com/",
+            "Billing":"https://www.bassuw.com/",
+            "website":"https://www.bassuw.com/"
+        }
+    },
+    "Beacon Mutual Insurance Co.":{
+        "phone":{
+         "claim":" 1 (401) 825-2667",
+         "service":   "1 (888) 886-4450"
+        },
+        "links":{
+            "claim":"http://www.beaconmutual.com/pages/Contact.aspx",
+            "Billing":"http://www.beaconmutual.com/pages/Contact.aspx",
+            "website":"https://beaconnect.beaconmutual.com/Pages/BeaconnectHome.aspx"
+        }
+    },
+    "Berkley Assigned Risk Services":{
+        "phone":{
+            "claim":" 1 (800) 435-1127",
+            "service":   "1 (888) 548-7431"
+        },
+        "links":{
+            "claim":"https://www.berkleyassignedrisk.com/sitepages/pid175.php",
+            "Billing":"https://www.berkleyassignedrisk.com/contact",
+            "website":"https://www.berkleyassignedrisk.com/"
+        }
+    },
+    "BlueCross BlueShield of Florida":{
+        "phone":{
+         "claim":"1 (800) FLA-BLUE (352-2583)",
+         "service":   "1 (800) FLA-BLUE (352-2583)"
+        },
+        "links":{
+            "claim":"https://www.berkleyassignedrisk.com/sitepages/pid175.php",
+            "Billing":"https://login.bcbsfl.com/login/public/web/memberlogin.jsp?userType=member&TYPE=33619969&REALMOID=06-ca86e329-39c6-1032-a112-80f1ac0fff21&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$TrM%2fKCz3Zynmbu1THhKN8OP3kkvcHexGoEdBd5tayiIA5Qcewf%2bpah%2f9gO1shfMc&TARGET=$SM$http%3a%2f%2fmwe%2ebcbsfl%2ecom%2fwps%2fmyportal%2fmbs%2fmwe%2fmyaccount%2fBillPayingServices%3f_ga%3d2%2e135589873%2e1760094589%2e1516483741-926386001%2e1516483741",
+            "website":"https://www.floridablue.com/"
+        }
+    },
+    "Brighthouse Financial":{
+        "phone":{
+         "claim":" 1 (800) 638-5433",
+         "service":   "1 (800) 638-5433"
+        },
+        "links":{
+            "claim":"https://www.brighthousefinancial.com/support/policy-service-and-claim-forms/",
+            "Billing":"https://online.metlife.com/edge/web/public/login?TYPE=33554433&REALMOID=06-000a99cb-aa7c-1935-b497-cd3cac18a0de&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$Zw1cqLuebaICVZt%2bIb4TlPX7pD2LDqke5jZ8EVTcWhqicoRiXoklGS4%2baUV%2fG9FN6q02tmo3nNWNRMO1WnApCCCJaAUsCVv%2b&TARGET=$SM$https%3a%2f%2fonline%2emetlife%2ecom%2fedge%2fweb%2findex%2fhome",
+            "website":"https://www.brighthousefinancial.com/"
+        }
+    },
+    "Bristol West Insurance Group":{
+        "phone":{
+         "claim":" 1 (800) 274-7865",
+         "service":   "1 (888) 888-0080"
+        },
+        "links":{
+            "claim":"https://www.bristolwest.com/Bristolwest/Customer/Claim.aspx",
+            "Billing":"https://www.bristolwest.com/Bristolwest/Contact.aspx",
+            "website":"https://www.bristolwest.com/bristolwest/home.aspx"
+        }
+    },
+    "Bunker Hill Home Insurance":{
+        "phone":{
+         "claim":" 1 (866) 322-2442",
+         "service":   "1 (866) 322-2442"
+        },
+        "links":{
+            "claim":"http://www.bunkerhillins.com/claim-center/",
+            "Billing":"http://www.bunkerhillins.com/claim-center/",
+            "website":"http://www.bunkerhillins.com/"
+        }
+    },
+    "Burlington Insurance":{
+        "phone":{
+         "claim":" 1 (802) 660-2782",
+         "service":   "1 (802) 660-2782"
+        },
+        "links":{
+            "claim":"http://www.burlingtoninsurance.net/companies",
+            "Billing":"http://www.burlingtoninsurance.net/companies",
+            "website":"http://www.burlingtoninsurance.net/"
+        }
+    },
+    "Cabrillo General Insurance":{
+        "phone":{
+         "claim":" 1 (866) 482-5246",
+         "service":   "1 (866) 896-7233"
+        },
+        "links":{
+            "claim":"https://insured.cabgen.com/claimreport/",
+            "Billing":"https://insured.cabgen.com/payments/",
+            "website":":https://www.cabgen.com/"
+        }
+    },
+    "California Fair Plan":{
+        "phone":{
+         "claim":" 1 (213) 487-0111",
+         "service":   "1 (213) 487-0111"
+        },
+        "links":{
+            "claim":"https://www.cfpnet.com/lossnotice/",
+            "Billing":"https://www.cfpnet.com/online-payment/",
+            "website":"https://www.cfpnet.com/"
+        }
+    },
+    "Canal Insurance":{
+        "phone":{
+         "claim":" 1 (800) 452-6911",
+         "service":   "1 (800) 452-6911"
+        },
+        "links":{
+            "claim":"https://canalinsurance.com/report-a-loss/",
+            "Billing":"https://canalinsurance.com/",
+            "website":"https://canalinsurance.com/"
+        }
+    },
+    "Capital Insurance Group (CIG)":{
+        "phone":{
+         "claim":" 1 (858) 300-2200",
+         "service":   "1 (858) 300-2200"
+        },
+        "links":{
+            "claim":"https://www.ciginsurance.com/about/contact-us/claim-services/",
+            "Billing":"https://www.ciginsurance.com/about/contact-us/cig-easy-pay-options/",
+            "website":"https://www.ciginsurance.com/"
+        }
+    },
+    "Catlin Underwriting Ambition":{
+        "phone":{
+         "claim":"1-877-720-8844",
+         "service":   "1-877-720-8844"
+        },
+        "links":{
+            "claim":"http://xlcatlin.com/insurance/claims",
+            "Billing":"http://xlcatlin.com/insurance",
+            "website":"http://xlcatlin.com/insurance"
+        }
+    },
+    "Century Insurance Group":{
+        "phone":{
+         "claim":" 1 (800) 825-9489",
+         "service":   "1 (800) 878-7389"
+        },
+        "links":{
+            "claim":"http://home.centurysurety.com/RegisterAClaim.html",
+            "Billing":"http://home.centurysurety.com/",
+            "website":"http://home.centurysurety.com/"
+        }
+    },
+    "CHUBB":{
+        "phone":{
+         "claim":" 1 (800) 252-4670",
+         "service":   "1 (866) 324-8222"
+        },
+        "links":{
+            "claim":"http://www.chubb.com/claims/report-a-claim.html",
+            "Billing":"http://www.chubb.com/businesses/chubb8976.html",
+            "website":"http://www.chubb.com/"
+        }
+    },
+    "CIBA Insurance Services":{
+        "phone":{
+         "claim":" 1 (818) 645-1079",
+         "service":   "1 (818) 245-1010"
+        },
+        "links":{
+            "claim":"http://www.cibaservices.com/contact.php",
+            "Billing":"http://www.cibaservices.com/contact.php",
+            "website":"http://www.cibaservices.com/contact.php"
+        }
+    },
+    "Citizens Property Insurance":{
+        "phone":{
+         "claim":" 1 (866) 411-2742",
+         "service":   " 1 (888) 685-1555"
+        },
+        "links":{
+            "claim":"https://www.citizensfla.com/claims",
+            "Billing":"https://www.citizensfla.com/payments",
+            "website":"https://www.citizensfla.com/"
+        }
+    },
+    "CNA Insurance in Touch with Business":{
+        "phone":{
+         "claim":" 1 (877) 262-2727",
+         "service":   "1 (877) 276-7507"
+        },
+        "links":{
+            "claim":"https://www.cna.com/web/guest/cna/reportaclaim",
+            "Billing":"https://www.cna.com/web/guest/cna/billpay",
+            "website":"https://www.cna.com/web/guest/cna/billpay"
+        }
+    },
+    "Coastal Agents Alliance":{
+        "phone":{
+         "claim":" 1 (844) 723-2524",
+         "service":   "1 (609) 277-7809"
+        },
+        "links":{
+            "claim":"http://coastal.orchidinsurance.com/client-information/",
+            "Billing":"http://coastal.orchidinsurance.com/payment-options/",
+            "website":"http://coastal.orchidinsurance.com/"
+        }
+    },
+    "Concord Group Insurance":{
+        "phone":{
+         "claim":" 1 (800) 888-6050",
+         "service":   "1 (800) 852-3380"
+        },
+        "links":{
+            "claim":"http://www.concordgroupinsurance.com/contact-us/claimsreporting",
+            "Billing":"http://www.concordgroupinsurance.com/manageyouraccount/paymybill",
+            "website":"http://www.concordgroupinsurance.com/"
+        }
+    },
+    "Condon & Skelly":{
+        "phone":{
+         "claim":" 1 (800) 257-9496",
+         "service":   "1 (800) 257-9496"
+        },
+        "links":{
+            "claim":"https://condonskelly.com/ContactUs/",
+            "Billing":"https://condonskelly.com/ContactUs/",
+            "website":"https://condonskelly.com/"
+        }
+    },
+    "Coverys":{
+        "phone":{
+         "claim":" 1 (800) 225-6168",
+         "service":   "1 (800) 225-6168"
+        },
+        "links":{
+            "claim":"1 (800) 225-6168",
+            "Billing":"https://www.coverys.com/Contact-Us",
+            "website":"https://www.coverys.com/"
+        }
+    },
+    "CSE":{
+        "phone":{
+         "claim":" 1 (888) 236-5584",
+         "service":   "1 (888) 546-3309"
+        },
+        "links":{
+            "claim":"http://cseinsurance.com/claims/",
+            "Billing":"https://ww2.e-billexpress.com/ebpp/cseinsurance/",
+            "website":"http://cseinsurance.com/"
+        }
+    },
+    "Cumberland":{
+        "phone":{
+         "claim":" 1 (800) 588-7400",
+         "service":   "1 (800) 262-7255"
+        },
+        "links":{
+            "claim":"https://www.cumberlandgroup.com/report-a-claim",
+            "Billing":"https://paymentscumberland.billmatrix.com/",
+            "website":"https://www.cumberlandgroup.com/"
+        }
+    },
+    "Dairyland Auto":{
+        "phone":{
+         "claim":" 1 (800) 334-0090",
+         "service":   "1 (800) 262-7255"
+        },
+        "links":{
+            "claim":"https://www.dairylandinsurance.com/auto/claims",
+            "Billing":"https://my.dairylandinsurance.com/?request_locale=en",
+            "website":"https://www.dairylandauto.com/"
+        }
+    },
+    "Dongbu Insurance":{
+        "phone":{
+         "claim":" 1 (310) 516-9977",
+         "service":   "1 (310) 516-9977"
+        },
+        "links":{
+            "claim":"http://www.dbinsus.com/claim.htm",
+            "Billing":"http://www.dbinsus.com/about03.htm",
+            "website":"http://www.dbinsus.com/"
+        }
+    },
+    "Echelon Insurance":{
+        "phone":{
+         "claim":" 1 (866) 931-0570",
+         "service":   "1 (866) 931-0570"
+        },
+        "links":{
+            "claim":"https://echeloninsurance.ca/consumers/claims/filing-a-claim/",
+            "Billing":"https://echeloninsurance.ca/make-a-payment-using-paypal/",
+            "website":"https://echeloninsurance.ca/"
+        }
+    },
+    "Economical Insurance":{
+        "phone":{
+         "claim":" 1 (800) 607-2424",
+         "service":   "1 (800) 607-2424"
+        },
+        "links":{
+            "claim":"https://www.economical.com/en/claims",
+            "Billing":"https://www.economical.com/en/contact-us",
+            "website":"https://www.economical.com/en/home"
+        }
+    },
+    "Elite Insurance":{
+        "phone":{
+         "claim":" 1 (866) 692-8482",
+         "service":   "1 (866) 692-8482"
+        },
+        "links":{
+            "claim":"https://www.avivacanada.com/make-an-insurance-claim",
+            "Billing":"https://www.avivacanada.com/basic-page/pay-credit-card",
+            "website":"https://www.avivacanada.com/"
+        }
+    },
+    "Encompass":{
+        "phone":{
+         "claim":" 1 (800) 588-7400",
+         "service":   "1 (800) 262-72551 (800) 262-7255"
+        },
+        "links":{
+            "claim":"https://www.encompassinsurance.com/claims/main.aspx",
+            "Billing":"https://consumers.encompassinsurance.com/billpay/login.aspx",
+            "website":"https://www.encompassinsurance.com/"
+        }
+    },
+    "Farmers of Flemington":{
+        "phone":{
+         "claim":" 1 (866) 631-9153",
+         "service":   "1 (800) 842-5032"
+        },
+        "links":{
+            "claim":"http://www.farmersofflemington.com/claimform.asp",
+            "Billing":"http://www.farmersofflemington.com/billing.asp",
+            "website":"http://www.farmersofflemington.com/home.asp"
+        }
+    },
+    "Fidelity National Property and Casualty Insurance Group":{
+        "phone":{
+         "claim":" 1 (800) 725-9472",
+         "service":   "1 (866) 373-5663"
+        },
+        "links":{
+            "claim":"http://www.wrightflood.com/claims.html",
+            "Billing":"https://www.wrightflood.net/Portal/PolicyPayments/PolicyCheck.jsp",
+            "website":"http://www.wrightflood.com/"
+        }
+    },
+    "Finger Lakes Fire & Casualty":{
+        "phone":{
+         "claim":" 1 (607) 387-6800",
+         "service":   "1 (607) 387-6800"
+        },
+        "links":{
+            "claim":"https://www.flfcc.com/contact.cfm",
+            "Billing":"https://www.flfcc.com/payments.cfm",
+            "website":"https://www.flfcc.com/"
+        }
+    },
+    "Florida Peninsula Insurance":{
+        "phone":{
+         "claim":" 1 (877) 994-8368",
+         "service":   "1 (877) 229-2244"
+        },
+        "links":{
+            "claim":"https://www.floridapeninsula.com/claims",
+            "Billing":"https://www.floridapeninsula.com/contact",
+            "website":"https://www.floridapeninsula.com/"
+        }
+    },
+    "Florida Specialty Insurance":{
+        "phone":{
+         "claim":" 1 (888) 723-3055",
+         "service":   "1 (888) 723-3055"
+        },
+        "links":{
+            "claim":"http://floridaspecialty.com/report-a-claim/",
+            "Billing":"https://fsi.policyport.com/insured-web/start/fsi/login?execution=e1s1",
+            "website":"http://floridaspecialty.com/"
+        }
+    },
+    "Foremost Insurance Group":{
+        "phone":{
+         "claim":" 1 (800) 527-3907",
+         "service":   "1 (800) 527-3905"
+        },
+        "links":{
+            "claim":"https://www.foremost.com/claims/",
+            "Billing":"https://www.foremost.com/payonline/index.asp",
+            "website":"http://www.foremost.com/"
+        }
+    },
+    "Frank Cowan":{
+        "phone":{
+         "claim":" 1 (800) 265-4000",
+         "service":   "1 (800) 265-4000"
+        },
+        "links":{
+            "claim":"https://www.frankcowan.com/claims",
+            "Billing":"https://www.frankcowan.com/contact",
+            "website":"https://www.frankcowan.com/"
+        }
+    },
+    "Frontline Homeowners Insurance":{
+        "phone":{
+         "claim":"Non-Hurricane  1 (866) 549-9672",
+         "service":   "Hurricane  1 (866) 673-0623"
+        },
+        "links":{
+            "claim":"https://www.frontlineinsurance.com/",
+            "Billing":"https://www.frontlineinsurance.com/",
+            "website":"https://www.frontlineinsurance.com/"
+        }
+    },
+    "GeoVera":{
+        "phone":{
+         "claim":" 1 (800) 859-8734",
+         "service":   "1 (800) 324-6020"
+        },
+        "links":{
+            "claim":"https://www.mygeosource.com/ClaimsHelp.aspx",
+            "Billing":"http://www.geovera.com/Contact.aspx",
+            "website":"http://www.geovera.com/"
+        }
+    },
+    "Grange Insurance Association":{
+        "phone":{
+         "claim":" 1 (800) 445-3030",
+         "service":   "1 (800) 422-0550"
+        },
+        "links":{
+            "claim":"https://www.grangeinsurance.com/claims/report-or-track-a-claim",
+            "Billing":"https://www.grangeinsurance.com/login",
+            "website":"https://www.grangeinsurance.com/"
+        }
+    },
+    "Great American Insurance Group":{
+        "phone":{
+         "claim":" 1 (800) 475-2691",
+         "service":   "1 (800​) 545-4269"
+        },
+        "links":{
+            "claim":"http://www.greatamericaninsurancegroup.com/Specialty-Property-Casualty/Pages/Claims.aspx",
+            "Billing":"http://www.greatamericaninsurancegroup.com/Specialty-Property-Casualty/Pages/Policyholder-Payment.aspx",
+            "website":"http://www.greatamericaninsurancegroup.com/Pages/default.aspx"
+        }
+    },
+    "Grundy Insurance":{
+        "phone":{
+         "claim":" 1 (800) 765-9749",
+         "service":   "1 (888) 647-8639"
+        },
+        "links":{
+            "claim":"http://www.grundy.com/make-a-claim",
+            "Billing":"http://www.grundy.com/pay-premium",
+            "website":"http://www.grundy.com/"
+        }
+    },
+    "GuideOne Insurance":{
+        "phone":{
+         "claim":" 1 (888) 748-4326",
+         "service":   "1 (877) 448-4331"
+        },
+        "links":{
+            "claim":"https://www.guideone.com/claims/report-a-claim",
+            "Billing":"https://www.guideone.com/customer-service/payments",
+            "website":"https://www.guideone.com/"
+        }
+    },
+    "Hagerty":{
+        "phone":{
+         "claim":" 1 (877) 922-9701",
+         "service":   "1 (877) 922-9701"
+        },
+        "links":{
+            "claim":"https://login.hagerty.com/identity/login?signin=a67e9180d865571abb233adc67f4e079",
+            "Billing":"https://login.hagerty.com/identity/login?signin=a67e9180d865571abb233adc67f4e079",
+            "website":"https://www.hagerty.com/"
+        }
+    },
+    "Hagerty Insurance CA":{
+        "phone":{
+         "claim":" 1 (866) 692-8482",
+         "service":   "1 (866) 692-8482"
+        },
+        "links":{
+            "claim":"https://www.hagerty.ca/claim/claim_main.aspx",
+            "Billing":"https://login.hagerty.com/TemporaryAccess?purpose=PayBill",
+            "website":"https://www.hagerty.ca/"
+        }
+    },
+    "Halcyon Underwriters":{
+        "phone":{
+         "claim":"Toll Free: (800) 393-9090",
+         "service":   "Claims email: claims@halcyonuw.com"
+        },
+        "links":{
+            "claim":"http://www.halcyonuw.com/",
+            "Billing":"http://www.halcyonuw.com/",
+            "website":"http://www.halcyonuw.com/"
+        }
+    },
+    "Harleysville":{
+        "phone":{
+         "claim":" 1 (800) 421-3535",
+         "service":   "1 (800) 338-8301"
+        },
+        "links":{
+            "claim":"https://www.harleysvillegroup.com/cont/cont_1.html",
+            "Billing":"https://www.harleysvillegroup.com/pol/pol_1.html",
+            "website":"https://www.harleysvillegroup.com/"
+        }
+    },
+    "Hospitality Insurance Group":{
+        "phone":{
+         "claim":" 1 (877) 366-1140",
+         "service":   "1 (877) 366-1140"
+        },
+        "links":{
+            "claim":"http://www.hospitality-mutual.com/report-a-claim",
+            "Billing":"http://www.hospitality-mutual.com/services/billing",
+            "website":"http://www.hospitality-mutual.com/"
+        }
+    },
+    "Imperial Fire & Casualty":{
+        "phone":{
+         "claim":" 1 (800) 960-7777",
+         "service":   "1 (800) 960-7777"
+        },
+        "links":{
+            "claim":"https://www.nationalgeneral.com/claims-center/report-claim.asp",
+            "Billing":"https://my.imperialfire.com/",
+            "website":"https://www.imperialfire.com/"
+        }
+    },
+    "Infinity Insurance":{
+        "phone":{
+         "claim":" 1 (800) 334-1661",
+         "service":   "1 (800) 782-1020"
+        },
+        "links":{
+            "claim":"https://claims.infinityauto.com/en/report-claim?_ga=2.244857548.899826799.1516484570-1933784841.1516484570",
+            "Billing":"https://www.infinityauto.com/make-your-payments-go",
+            "website":"https://www.infinityauto.com/"
+        }
+    },
+    "Intact Insurance":{
+        "phone":{
+         "claim":" 1 (866) 464-2424",
+         "service":   "1 (866) 464-2424"
+        },
+        "links":{
+            "claim":"https://www.intact.ca/on/en/personal-insurance/claims.html",
+            "Billing":"https://apps.intactinsurance.com/on/secure/payment-ontario.html",
+            "website":"https://www.intact.ca/on/en/personal-insurance.html"
+        }
+    },
+    "Jevco Insurance":{
+        "phone":{
+         "claim":" 1 (866) 864-1112",
+         "service":   "1 (800) 265-5458"
+        },
+        "links":{
+            "claim":"https://www.jevco.ca/en/insurance-claims.html",
+            "Billing":"https://www.jevco.ca/en/contact-us.html",
+            "website":"https://www.jevco.ca/en/contact-us.html"
+        }
+    },
+    "JIBNA":{
+        "phone":{
+         "claim":" 1 (877) 542-6254",
+         "service":   "1 (877) 542-6254"
+        },
+        "links":{
+            "claim":"http://www.insure-jewelry.com/contact_JIBNA.htm",
+            "Billing":"http://www.insure-jewelry.com/contact_JIBNA.htm",
+            "website":"http://www.insure-jewelry.com/"
+        }
+    },
+    "Jimcor":{
+        "phone":{
+         "claim":" 1 (877) 954-6267",
+         "service":   "1 (877) 954-6267"
+        },
+        "links":{
+            "claim":"http://www.jimcor.com/Claims",
+            "Billing":"https://www.xpress-pay.com/cfe/5691.asp",
+            "website":"http://www.jimcor.com/Home"
+        }
+    },
+    "Johnson & Johnson":{
+        "phone":{
+         "claim":" 1 (800) 487-7565 x5024",
+         "service":   "1 (800) 487-7565"
+        },
+        "links":{
+            "claim":"https://www.jjins.com/ClaimsMenu/Login.aspx?ReturnUrl=%2fClaimsMenu%2fdefault.aspx",
+            "Billing":"https://www.jjins.com/home/payments.aspx",
+            "website":"https://www.jjins.com/home/default.aspx"
+        }
+    },
+    "Kemper":{
+        "phone":{
+         "claim":" 1 (888) 252-2799",
+         "service":   "1 (877) 252-7878"
+        },
+        "links":{
+            "claim":"http://www.kemper.com/wps/portal/KemperPreferred/Home/ClaimsCenter",
+            "Billing":"http://www.kemper.com/wps/portal/KemperDirect/Home/InsuranceOptions/AdditionalInsurance/Payment%20Options/!ut/p/b1/hZHJkqJAAES_pT-gm6IoEY7sgoAIJUtdCChbEUFc2IqvHydiThPRM3nLiLy8lxzhUo7civFyLvpLdyua352IuRWqQFZ5BVgxbwJb30cxRBIEMuASLg2yaa2_7MlQknE_BFFSDw5xBy-0va4zoMinHa4D9TIX5Vm-se3RkkA30WXRor5Xe4_dp5Upi7si8R_szq5jnR3Qtb-LURO3eGPJzoigA1gszLfmVmbbvPo0m2lFr_CZ201U2c2k6aDgdxV9IjokqkCNOiazt6rT7bxhAfo8nbXLspPdN1D2BgI_RAH_43U4cinbr4m2X-BrDQQI10hEEhJEUZC5uM5EWe8cxbDD05wQFxZCH1nMc5ruIqRbioi7hiFzVSiNiXnONHEgRCtPuk7QhseNooSH6NFQkz2w0iv0pDLV2dLvh3VsUrrX2hDH4SuFZVKa6lC9znIlHf1roeKnSWlH6xJuh-d-Fp8roYVpzjJ1GO193AcDkFzpOadFrevFqBkNgYUkHo-IIDpXs0myag3dGmG_huZr7MowYDmviRvyMrqP98_kLzVmIL7V7AybRx4PFOHP4B9qs_dg_bNcgcNcClAe1exuL9clrMG8810D4Dq0eQMAfzklPraY70e8b8guOACIjQm8rpUX4R2IfBwc4_CgKoqaW03J-Zuu_ebu7eiuxihox_PHL-7ifxI!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/#.XVX_eehKiUl",
+            "website":"http://www.kemper.com/wps/portal/KemperPreferred/Home/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOLdg5wMLJ0MHQ0MDPzNDTx9_LzcAg38jdxdTIEKIoEKDHAARwNC-sP1o8BK8Jjg55Gfm6pfkBthoOuoqAgALxlPdg!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh"
+        }
+    },
+    "Kemper Specialty":{
+        "phone":{
+         "claim":" 1 (800) 456-1919",
+         "service":   "1 (800) 456-1919"
+        },
+        "links":{
+            "claim":"https://www.kemper.com/wps/portal/KemperSpecialty/Home/ClaimsCenter",
+            "Billing":"https://myaccount.kemper.com/us/home/index.cfm/go/payments.home",
+            "website":"https://www.kemper.com/wps/portal/KemperSpecialty/Home/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOLdg5wMLJ0MHQ38QzzNDTxdHE09TTw8DBy9jIAKIoEKDHAARwNC-r30ozKTcvXKk3P1DPRMzQwMDcxMDUzMLCzMjM2N9MP1o1ANcHcLMAMa4O_qaWjia2gAVAJRgMcBfh75uan6BbkRlcEB6YoA8G8GZg!!/dl4/d5/L2dJQSEvUUt3QS80SmtFL1o2X0dSQjA5QjFBMEdGUDYwSURPRUkxNE0xMDcy"
+        }
+    },
+    "Legal & General":{
+        "phone":{
+         "claim":" 1 (800) 638-8428",
+         "service":   "1 (800) 638-8428"
+        },
+        "links":{
+            "claim":"https://www.lgamerica.com/life-insurance/claims",
+            "Billing":"https://login.lgamerica.com/login?signin=c546e4d2c8cfb5ab827173ebcb3b0037",
+            "website":"https://www.lgamerica.com/corporate/banner-life"
+        }
+    },
+    "Lexington Insurance":{
+        "phone":{
+         "claim":" 1 (800) 931-9546",
+         "service":   "1 (617) 330-1100"
+        },
+        "links":{
+            "claim":"http://www.lexingtoninsurance.com/claims",
+            "Billing":"http://www.lexingtoninsurance.com/contact-us",
+            "website":"http://www.lexingtoninsurance.com/"
+        }
+    },
+    "Liberty Mutual Insurance":{
+        "phone":{
+         "claim":" 1 (800) 225-2467",
+         "service":   "1 (888) 398-8924"
+        },
+        "links":{
+            "claim":"https://www.libertymutual.com/claims-center/report-track-claims",
+            "Billing":"https://www.libertymutual.com/customer-service/billing-and-payment-options",
+            "website":"https://www.libertymutual.com/"
+        }
+    },
+    "Liberty Mutual Insurance - Group Business":{
+        "phone":{
+         "claim":" 1 (800) 225-2467",
+         "service":   "1 (888) 398-8924"
+        },
+        "links":{
+            "claim":"https://business.libertymutualgroup.com/business-insurance/claims-process/report-a-claim",
+            "Billing":"https://business.libertymutualgroup.com/business-insurance/contact/pay-your-bill",
+            "website":"https://business.libertymutualgroup.com/business-insurance/contact/pay-your-bill"
+        }
+    },
+    "Lifewise":{
+        "phone":{
+         "claim":" 1 (800) 592-6804",
+         "service":   "1 (800) 592-6804"
+        },
+        "links":{
+            "claim":"https://www.lifewisewa.com/member/manage-my-account/claims",
+            "Billing":"https://www.lifewisewa.com/member/manage-my-account/pay-my-bill",
+            "website":"https://www.lifewisewa.com/"
+        }
+    },
+    "Lititz Mutual":{
+        "phone":{
+         "claim":" 1 (855) 725- 5642",
+         "service":   "1 (855) 725-5642"
+        },
+        "links":{
+            "claim":"https://www.lititzmutual.com/info-center",
+            "Billing":"https://www.lititzmutual.com/make-a-payment",
+            "website":"https://business.libertymutualgroup.com/business-insurance"
+        }
+    },
+    "Mainstreet America Group":{
+        "phone":{
+         "claim":" 1 (877) 425-2467",
+         "service":   "1 (800) 207-0446"
+        },
+        "links":{
+            "claim":"http://www.msagroup.com/policyholder/reportingClaims.cfm",
+            "Billing":"http://www.msagroup.com/policyholder/paymentoptions.cfm",
+            "website":"http://www.msagroup.com/"
+        }
+    },
+    "Mapfre Insurance":{
+        "phone":{
+         "claim":" 1 (800) 221-1605",
+         "service":   "1 (800) 922-8276"
+        },
+        "links":{
+            "claim":"https://www.mapfreinsurance.com/en/claims/auto/",
+            "Billing":"https://www.mapfreinsurance.com/b2cwebapp/account/loginView?locale=en&state=MA",
+            "website":"https://www.mapfreinsurance.com/en/"
+        }
+    },
+    "Markel":{
+        "phone":{
+         "claim":" 1 (800) 362-7535",
+         "service":   "1 (800) 431-1270"
+        },
+        "links":{
+            "claim":"http://www.markelinsurance.com/file-a-claim",
+            "Billing":"http://www.markelinsurance.com/paymybill",
+            "website":"http://www.markelinsurance.com/"
+        }
+    },
+    "Mass Mutual":{
+        "phone":{
+         "claim":" 1 (800) 272-2216",
+         "service":   "1 (716) 852-1321"
+        },
+        "links":{
+            "claim":"https://www.massmutual.com/claims",
+            "Billing":"https://www.massmutual.com/myaccount/rl/Login/login?type=Customer",
+            "website":"https://ny-state.massmutual.com/"
+        }
+    },
+    "Merchants Insurance Group (Business Insurance)":{
+        "phone":{
+         "claim":" 1 (800) 462-1077",
+         "service":   "1 (800) 462-1077"
+        },
+        "links":{
+            "claim":"https://www.merchantsgroup.com/claims-center",
+            "Billing":"https://www.merchantsgroup.com/pay-my-bill",
+            "website":"https://www.merchantsgroup.com/"
+        }
+    },
+    "Mercury Insurance":{
+        "phone":{
+         "claim":" 1 (800) 503-3724",
+         "service":   "1 (800) 503-3724"
+        },
+        "links":{
+            "claim":"https://www.mercuryinsurance.com/insurance-claims/how-to-file-insurance-claim.html",
+            "Billing":"https://www.mercuryinsurance.com/pay-your-bill/car-insurance-payment-options.html",
+            "website":"https://www.mercuryinsurance.com/"
+        }
+    },
+    "MetLife":{
+        "phone":{
+         "claim":" 1 (800) 854-6011",
+         "service":   "1 (800) 422-4272"
+        },
+        "links":{
+            "claim":"https://www.metlife.com/about/corporate-profile/pay-a-bill/claims/index.html",
+            "Billing":"https://www.metlife.com/about/corporate-profile/contact/metlife/index.html",
+            "website":"https://www.metlife.com/insurance/?cid=c0mt9&utm_campaign=c_cp_2q17_mer&utm_term=c_cp&utm_medium=cpc&utm_content=desktop_taken+from+adwords&utm_source=google&utm_id=c0mt9&WT.mc_id=c0mt9&ds_kid=43700021428635671&gclid=EAIaIQobChMI6uzZ-OLS2AIVF7XACh3s7gZzEAAYASAAEgLw2fD_BwE&gclsrc=aw.ds&dclid=CJ6l2vni0tgCFUbHZAodeloDkw"
+        }
+    },
+    "Mutual of Omaha":{
+        "phone":{
+         "claim":"1(800) 646-7592",
+         "service":   "800-775-6000"
+        },
+        "links":{
+            "claim":"https://www.mutualofomaha.com/support",
+            "Billing":"https://www.mutualofomaha.com/support",
+            "website":"https://www.mutualofomaha.com/"
+        }
+    },
+    "N&D Group":{
+        "phone":{
+         "claim":" 1 (800) 688-1825",
+         "service":   "1 (800) 688-1825"
+        },
+        "links":{
+            "claim":"http://www.ndgroup.com/claims",
+            "Billing":"http://www.ndgroup.com/billing",
+            "website":"http://www.ndgroup.com/"
+        }
+    },
+    "Naragansett Bay Insurance":{
+        "phone":{
+         "claim":" 1 (800) 343-3375",
+         "service":   "1 (800) 343-3375"
+        },
+        "links":{
+            "claim":"http://www.nbic.com/company/report-a-claim.aspx",
+            "Billing":"http://www.nbic.com/company/make-a-payment.aspx",
+            "website":"http://www.nbic.com/"
+        }
+    },
+    "National General Insurance":{
+        "phone":{
+         "claim":" 1 (800) 325-1088",
+         "service":   "1 (888) 293-5108"
+        },
+        "links":{
+            "claim":"http://www.nationalgeneral.com/claims-center/default.asp",
+            "Billing":"http://www.nationalgeneral.com/Account/Enterpolicy.asp",
+            "website":"http://www.nationalgeneral.com/"
+        }
+    },
+    "National General Premier Client":{
+        "phone":{
+         "claim":" 1 (844) 287-2236",
+         "service":   "1 (844) 287-2237"
+        },
+        "links":{
+            "claim":"http://natgenpremier.com/mClaims.aspx",
+            "Billing":"http://natgenpremier.com/",
+            "website":"http://natgenpremier.com/"
+        }
+    },
+    "National Lloyds":{
+        "phone":{
+         "claim":" 1 (800) 749-6419",
+         "service":   "1 (800) 749-6419"
+        },
+        "links":{
+            "claim":"https://www.nationallloydsinsurance.com/home",
+            "Billing":"https://www.nationallloydsinsurance.com/make-a-payment",
+            "website":"https://www.nationallloydsinsurance.com/"
+        }
+    },
+    "Nationwide":{
+        "phone":{
+         "claim":" 1 (800) 421-3535",
+         "service":   "1 (877) 669-6877"
+        },
+        "links":{
+            "claim":"https://www.nationwide.com/insurance-claims-center.jsp",
+            "Billing":"https://www.nationwide.com/pay-my-bill.jsp",
+            "website":"https://www.nationwide.com/index.jsp"
+        }
+    },
+    "Nautimax Insurance":{
+        "phone":{
+         "claim":" 1 (866) 692-8482",
+         "service":   "1 (866) 692-8482"
+        },
+        "links":{
+            "claim":"https://www.avivacanada.com/make-an-insurance-claim",
+            "Billing":"https://www.avivacanada.com/basic-page/pay-credit-card",
+            "website":"https://www.avivacanada.com/"
+        }
+    },
+    "NFS":{
+        "phone":{
+         "claim":" 1 (800) 759-8656",
+         "service":   "1 (800) 637-3846"
+        },
+        "links":{
+            "claim":"https://www.nationalfloodservices.com/Contact-Us",
+            "Billing":"https://www.myflood.com/",
+            "website":"https://www.nationalfloodservices.com/"
+        }
+    },
+    "NFS Edge":{
+        "phone":{
+         "claim":" 1 (888) 281-0684",
+         "service":   "1 (888) 281-0684"
+        },
+        "links":{
+            "claim":"http://www.nfsedgeinsurance.com/Pages/Contact-Us.aspx",
+            "Billing":"http://www.nfsedgeinsurance.com/Pages/Contact-Us.aspx",
+            "website":"http://www.nfsedgeinsurance.com/Pages/Home.aspx"
+        }
+    },
+    "NLC Insurance Companies":{
+        "phone":{
+         "claim":" 1 (800) 962-0800",
+         "service":   "1 (860) 887-3553"
+        },
+        "links":{
+            "claim":"https://www.nlcinsurance.com/products_and_services/claims_after_hours.htm",
+            "Billing":"https://www.vuebill.com/nlc",
+            "website":"https://www.nlcinsurance.com/default.htm"
+        }
+    },
+    "NYCM Insurance":{
+        "phone":{
+         "claim":" 1 (800) 234-6926",
+         "service":   "1 (800) 234-6926"
+        },
+        "links":{
+            "claim":"https://www.nycm.com/claims",
+            "Billing":"https://www.nycm.com/myaccount",
+            "website":"https://www.nycm.com/"
+        }
+    },
+    "NYPIUA":{
+        "phone":{
+         "claim":" 1 (212) 208-9710",
+         "service":   "1 (212) 208-9700"
+        },
+        "links":{
+            "claim":"http://www.nypiua.com/publish/reportclaimEMAIL/lossreport.aspx",
+            "Billing":"http://www.nypiua.com/billing.html",
+            "website":"https://www.nypiua.com/"
+        }
+    },
+    "Pacific Specialty":{
+        "phone":{
+         "claim":" 1 (800) 962-1172",
+         "service":   "1 (800) 303-5000"
+        },
+        "links":{
+            "claim":"https://www.pacificspecialty.com/claims-services",
+            "Billing":"https://www.pacificspecialty.com/customer-support",
+            "website":"https://www.pacificspecialty.com/"
+        }
+    },
+    "Peerless":{
+        "phone":{
+         "claim":" 1 (800) 522-7152",
+         "service":   "1 (800) 542-5385"
+        },
+        "links":{
+            "claim":"https://www.peerless-ins.com/claims",
+            "Billing":"https://www.peerless-ins.com/billing",
+            "website":"https://www.peerless-ins.com/"
+        }
+    },
+    "PEMCO Insurance":{
+        "phone":{
+         "claim":" 1 (800) 467-3626",
+         "service":   "1 (800) 467-3626"
+        },
+        "links":{
+            "claim":"https://pemco.com/claims",
+            "Billing":"https://pemco.com/contact-us",
+            "website":"https://pemco.com/"
+        }
+    },
+    "Personal Umbrella":{
+        "phone":{
+         "claim":" 1 (800) 564-1799",
+         "service":  "1 (800) 564-1799" 
+        },
+        "links":{
+            "claim":" https://www.personalumbrella.com/ref/contact.asp",
+            "Billing":"https://www.personalumbrella.com/ref/contact.asp",
+            "website":"https://www.personalumbrella.com/"
+        }
+    },
+    "Petplan":{
+        "phone":{
+         "claim":" 1 (866) 467-3875",
+         "service":   "1 (866) 467-3875"
+        },
+        "links":{
+            "claim":"http://www.gopetplan.com/claims-center",
+            "Billing":"http://www.gopetplan.com/search?q=billing",
+            "website":"http://www.gopetplan.com/"
+        }
+    },
+    "Preferred Mutual":{
+        "phone":{
+         "claim":" 1 (800) 333-7642",
+         "service":   "1 (800) 333-7642"
+        },
+        "links":{
+            "claim":"https://www.preferredmutual.com/claims/report-a-claim",
+            "Billing":"https://www.preferredmutual.com/payments/payment-options",
+            "website":"https://www.preferredmutual.com/"
+        }
+    },
+    "Premier Marine":{
+        "phone":{
+         "claim":" 1 (800) 235-8784",
+         "service":   "1 (800) 235-8784"
+        },
+        "links":{
+            "claim":"1 (800) 235-8784",
+            "Billing":"http://premiergroup.ca/contact",
+            "website":"http://premiergroup.ca/"
+        }
+    },
+    "Premium Assignment":{
+        "phone":{
+         "claim":" 1 (800) 342-0991",
+         "service":   "1 (800) 342-0991"
+        },
+        "links":{
+            "claim":"https://www.premiumassignment.com/PacWebsite/Account/Login",
+            "Billing":"http://heistinsurance.com/premium-assignment-pay-by-phone",
+            "website":"https://www.premiumassignment.com/PacWebsite"
+        }
+    },
+    "Principal":{
+        "phone":{
+         "claim":" 1 (800) 986-3343",
+         "service":   "1 (800) 986-3343"
+        },
+        "links":{
+            "claim":"https://www.principal.com/individuals",
+            "Billing":"https://ww2.e-billexpress.com/ebpp/PAYONLINE",
+            "website":"https://www.principal.com/individuals/insure/life-insurance"
+        }
+    },
+    "Protective":{
+        "phone":{
+         "claim":" 1 (800) 424-1592",
+         "service":   "1 (800) 866-9933"
+        },
+        "links":{
+            "claim":"https://www.protective.com/life-claims",
+            "Billing":"https://myaccount.protective.com/ladocs/public/login.aspx",
+            "website":"https://www.protective.com/"
+        }
+    },
+    "Prudential":{
+        "phone":{
+         "claim":" 1 (855) 277-8061",
+         "service":   "1 (855) 277-8061"
+        },
+        "links":{
+            "claim":"https://www.prudential.com/personal/life-insurance/death-claims/file-a-claim/?pswid=Z7_9A0I18C0LOEH50AEEBR39G1T25&urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2Fportal%20site%2Fz6_000000000000000000000000a0%2Fz6_9a0i18c0l0po80am2vkmno2g20%2Fz6_9a0i18c0lgos30a6cm62v52085%2Fz6_9a0i18c0loeh50aeebr39g1ts3%2Fz6_k8hehhg0lgm4c0adhn0q078pn1%2Fz6_k8hehhg0l0to60an3j2h0fgng7%2Fz6_o26a1k41loitb0al301lae5l76#/",
+            "Billing":"https://www.prudential.com/login",
+            "website":"https://www.prudential.com/"
+        }
+    },
+    "Pure Insurance":{
+        "phone":{
+         "claim":" 1 (888) 813-7873",
+         "service":   "1 (888) 813-7873"
+        },
+        "links":{
+            "claim":"https://www.pureinsurance.com/toolkit/report_claim",
+            "Billing":"https://www.pureinsurance.com/toolkit/billing_payment/index",
+            "website":"https://www.pureinsurance.com/index"
+        }
+    },
+    "QBE (North America)":{
+        "phone":{
+         "claim":" 1 (877) 772-6771",
+         "service":   "1 (877) 772-6771"
+        },
+        "links":{
+            "claim":"http://www.qbena.com/policyholders/claims.aspx",
+            "Billing":"http://www.qbena.com/policyholders/pay-your-bill.aspx",
+            "website":"http://www.qbena.com/"
+        }
+    },
+    "QEO Insurance":{
+        "phone":{
+         "claim":" 1 (844) 736-0008",
+         "service":   "1 (844) 736-0008"
+        },
+        "links":{
+            "claim":"http://www.qeo.com/claim-center",
+            "Billing":"http://www.qeo.com/contact",
+            "website":"http://www.qeo.com/"
+        }
+    },
+    "Quaker Special Risk":{
+        "phone":{
+         "claim":" 1 (508) 755-6210",
+         "service":   "1 (800) 252-8679"
+        },
+        "links":{
+            "claim":"http://www.quakerma.com/site/claims",
+            "Billing":"http://www.quakerma.com/site/electronic-payment",
+            "website":"http://www.quakerma.com/site"
+        }
+    },
+    "Redshield":{
+        "phone":{
+         "claim":" 1 (800) 527-7397",
+         "service":   "1 (800) 527-7397"
+        },
+        "links":{
+            "claim":"http://www.redshield.com/contact.html",
+            "Billing":"http://www.redshield.com/contact.html",
+            "website":"http://www.redshield.com/"
+        }
+    },
+    "Regence":{
+        "phone":{
+         "claim":" 1 (800) 365-3155",
+         "service":   "1 (800) 365-3155"
+        },
+        "links":{
+            "claim":"http://www.agencyrevolutionwebsites.com/19555e57-83cd-4b0c-aec4-97ad320bf75b/companies-we-represent",
+            "Billing":"http://www.agencyrevolutionwebsites.com/19555e57-83cd-4b0c-aec4-97ad320bf75b/companies-we-represent",
+            "website":"http://www.agencyrevolutionwebsites.com/19555e57-83cd-4b0c-aec4-97ad320bf75b/companies-we-represent"
+        }
+    },
+    "Republic Group":{
+        "phone":{
+         "claim":" 1 (800) 344-2275",
+         "service":   "1 (800) 344-2275"
+        },
+        "links":{
+            "claim":"https://www.republicgroup.com/claims/report",
+            "Billing":"https://www.republicgroup.com/contactus/Default.aspx",
+            "website":"https://www.republicgroup.com/"
+        }
+    },
+    "Republic Indemnity":{
+        "phone":{
+         "claim":" 1 (858) 292-7002",
+         "service":   "1 (858) 292-7002"
+        },
+        "links":{
+            "claim":"https://www.republicindemnity.com/brokers/claims",
+            "Billing":"http://www.republicindemnity.com/employers/pay-your-premium",
+            "website":"https://www.republicindemnity.com/"
+        }
+    },
+    "RLI":{
+        "phone":{
+         "claim":" 1 (800) 444-0406",
+         "service":   "1 (800) 331-4929"
+        },
+        "links":{
+            "claim":"https://www.rlicorp.com/how-report-claim",
+            "Billing":"https://www.rlicorp.com/contact-rli",
+            "website":"https://www.rlicorp.com/"
+        }
+    },
+    "RSA Facility Association":{
+        "phone":{
+         "claim":" 1 (800) 319-9990",
+         "service":   "1 (800) 319-9990"
+        },
+        "links":{
+            "claim":"https://www.rsagroup.ca/make-claim",
+            "Billing":"https://www.rsagroup.ca/contact-us",
+            "website":"https://www.rsagroup.ca/"
+        }
+    },
+    "Safeco Insurance":{
+        "phone":{
+         "claim":" 1 (800) 332-3226",
+         "service":  "1 (800) 332-3226" 
+        },
+        "links":{
+            "claim":"http://www.safeco.com/claims-center",
+            "Billing":"http://www.safeco.com/about-safeco/safeco-customer-support/billing-and-payment-options",
+            "website":"https://www.safeco.com/"
+        }
+    },
+    "Safe Point Insurance":{
+        "phone":{
+         "claim":" 1 (877) 858-7445",
+         "service":   "1 (877) 858-7445"
+        },
+        "links":{
+            "claim":"http://safepointins.com/claims_information.html",
+            "Billing":"http://safepointins.com/contact_information.html",
+            "website":"http://safepointins.com/"
+        }
+    },
+    "Safety Insurance":{
+        "phone":{
+         "claim":" 1 (800) 951-2100",
+         "service":   "1 (800) 951-2100"
+        },
+        "links":{
+            "claim":"https://www.safetyinsurance.com/claimsservices/index.html",
+            "Billing":"https://www.safetyinsurance.com/myaccount/login.pl?back_url=%2Fmyaccount%2Fbilling.pl",
+            "website":"https://www.safetyinsurance.com/"
+        }
+    },
+    "Scottsdale Insurance Company":{
+        "phone":{
+         "claim":" 1 (800) 423-7675",
+         "service":   "1 (800) 423-7675"
+        },
+        "links":{
+            "claim":"https://nationwideexcessandsurplus.com/public/file-a-claim.jsp",
+            "Billing":"https://nationwideexcessandsurplus.com/public/contact-us.jsp",
+            "website":"https://nationwideexcessandsurplus.com/public"
+        }
+    },
+    "Selective Insurance (Business Insurance)":{
+        "phone":{
+         "claim":" 1 (866) 455-9969",
+         "service":   "1 (800) 735-3284"
+        },
+        "links":{
+            "claim":"https://www.selective.com/contact-us",
+            "Billing":"https://www.selective.com/info-center/pay-my-bill",
+            "website":"https://www.selective.com/our-insurance/for-businesses"
+        }
+    },
+    "Seven Corners":{
+        "phone":{
+         "claim":" 1 (800) 335-0477",
+         "service":   "1 (317) 575-2652"
+        },
+        "links":{
+            "claim":"https://www.sevencorners.com/claims/trip-protection-claims",
+            "Billing":"https://www.sevencorners.com/myaccount#/login",
+            "website":"https://www.sevencorners.com/#start"
+        }
+    },
+    "South & Western":{
+        "phone":{
+         "claim":" 1 (800) 492-5351",
+         "service":   "1 (800) 492-5351"
+        },
+        "links":{
+            "claim":"https://www.southandwestern.com/ClaimPersonal",
+            "Billing":"https://www.southandwestern.com/",
+            "website":"https://www.southandwestern.com/"
+        }
+    },
+    "Southern Fidelity Insurance":{
+        "phone":{
+         "claim":" 1 (866) 722-4995",
+         "service":   "1 (866) 874-7342"
+        },
+        "links":{
+            "claim":"https://www.southernfidelityins.com/claims/report-a-claim",
+            "Billing":"https://www.southernfidelityins.com/claims/report-a-claim#Footer",
+            "website":"https://www.southernfidelityins.com/"
+        }
+    },
+    "Sports & Fitness":{
+        "phone":{
+         "claim":" 1 (800) 235-8784",
+         "service":   "1 (800) 235-8784"
+        },
+        "links":{
+            "claim":"http://www.sportsfitnesscanada.com/about/contact-us",
+            "Billing":"http://www.sportsfitnesscanada.com/about/contact-us",
+            "website":"http://www.sportsfitnesscanada.com/"
+        }
+    },
+    "State Auto":{
+        "phone":{
+         "claim":" 1 (800) 492-5351",
+         "service":   "1 (800) 492-5351"
+        },
+        "links":{
+            "claim":"https://www.stateauto.com/Claims",
+            "Billing":"https://www.stateauto.com/payment",
+            "website":"https://www.stateauto.com/"
+        }
+    },
+    "State Fund Insurance":{
+        "phone":{
+         "claim":" 1 (888) 782-8338",
+         "service":   "1 (888) 782-8338"
+        },
+        "links":{
+            "claim":"https://www.statefundca.com/Home/StaticIndex?id=http://content.statefundca.com//claims/ClaimsSvcs.asp",
+            "Billing":"https://www.statefundca.com/home/StaticIndex?id=http://content.statefundca.com//contact/ContactUs.asp",
+            "website":"https://www.statefundca.com/"
+        }
+    },
+    "Stillwater":{
+        "phone":{
+         "claim":" 1 (800) 220-1351",
+         "service":   "1 (855) 712-4092"
+        },
+        "links":{
+            "claim":"https://stillwaterinsurance.com/main/claims",
+            "Billing":"https://stillwaterinsurance.com/SelfService/main/login",
+            "website":"https://stillwaterinsurance.com/main/welcome"
+        }
+    },
+    "Swyfft":{
+        "phone":{
+         "claim":" 1 (855) 542-0917",
+         "service":   "1 (855) 479-9388"
+        },
+        "links":{
+            "claim":"https://swyfft.com/Claims",
+            "Billing":"https://swyfft.com/Faq",
+            "website":"https://swyfft.com/"
+        }
+    },
+    "Texas Mutual":{
+        "phone":{
+         "claim":" 1 (800) 892-5246",
+         "service":   "1 (800) 859-5995"
+        },
+        "links":{
+            "claim":"https://www.texasmutual.com/employers/empclaims",
+            "Billing":"https://secure.texasmutual.com/payments/paymentHomePage.do",
+            "website":"https://www.texasmutual.com/"
+        }
+    },
+    "The Andover Companies":{
+        "phone":{
+         "claim":" 1 (800) 225-0770",
+         "service":   "1 (978) 475-3300"
+        },
+        "links":{
+            "claim":"https://www.andovercos.com/ReportAClaim.html",
+            "Billing":"https://www.vuebill.com/Andover/Login.aspx",
+            "website":"https://www.andovercos.com/"
+        }
+    },
+    "The Hingham Group":{
+        "phone":{
+         "claim":" 1 (800) 341-8200",
+         "service":   "1 (800) 341-8200"
+        },
+        "links":{
+            "claim":"https://www.hinghammutual.com/claims/reportaclaim",
+            "Billing":"https://www.hinghammutual.com/billing",
+            "website":"https://www.hinghammutual.com/"
+        }
+    },
+    "Titan Insurance":{
+        "phone":{
+         "claim":" 1 (800) 848-2687",
+         "service":   "(800) 848-2687"
+        },
+        "links":{
+            "claim":"https://titaninsured.com/",
+            "Billing":"https://www.titan.com/titan/MakePayment.do?dispatch=search",
+            "website":"https://titaninsured.com/"
+        }
+    },
+    "Totten Group":{
+        "phone":{
+         "claim":" 1 (877) 896-0015",
+         "service":   "1 (877) 896-0015"
+        },
+        "links":{
+            "claim":"http://www.tottengroup.com/claims",
+            "Billing":"http://www.tottengroup.com/contact",
+            "website":"http://www.tottengroup.com/"
+        }
+    },
+    "Tower Hill Insurance":{
+        "phone":{
+         "claim":" 1 (800) 342-3407",
+         "service":   "1 (800) 342-3407"
+        },
+        "links":{
+            "claim":"https://www.thig.com/claims",
+            "Billing":"https://www.thig.com/contact",
+            "website":"https://www.thig.com/"
+        }
+    },
+    "Transamerica":{
+        "phone":{
+         "claim":" 1 (888) 345-0234",
+         "service":   "1 (800) 797-2643"
+        },
+        "links":{
+            "claim":"https://www.insuranceservicenow.com/formslogin.aspx",
+            "Billing":"https://www.transamerica.com/individual",
+            "website":"https://www.transamerica.com/individual"
+        }
+    },
+    "Union Mutual":{
+        "phone":{
+         "claim":" 1 (888) 299-0354",
+         "service":   "1 (800) 300-5261"
+        },
+        "links":{
+            "claim":"https://www.unionmutual.com/submit-a-claim",
+            "Billing":"https://www.unionmutual.com/make-a-payment",
+            "website":"https://www.unionmutual.com/"
+        }
+    },
+    "Union Standard":{
+        "phone":{
+         "claim":" 1 (800) 444-0049",
+         "service":   "1 (800) 955-0325 opt. 7"
+        },
+        "links":{
+            "claim":"https://www.usic.com/claims.php",
+            "Billing":"https://www.usic.com/billing.php",
+            "website":"https://www.usic.com/index.php"
+        }
+    },
+    "UPC Insurance":{
+        "phone":{
+         "claim":" 1 (888) 256-3378",
+         "service":   "1 (727) 895-7737"
+        },
+        "links":{
+            "claim":"http://www.upcinsurance.com/policyholders/submit-a-claim/?mkt_tok=eyJpIjoiWkdVNFpUUTFPVFF6TldNdyIsInQiOiJMN3JjSFdkNlZUcmx6QzdYOFdBNTREanpySTJhXC91WGlGR1hBRERONHVFRzc0ckhvWWE0OG1TZ0s1eHhaaGNaa0xKU0hodmk3QjVncTFSRWo5dldFZU56WUt4alJkVzltN1J2VlFjQkpNaDg9In0%3D",
+            "Billing":"http://www.upcinsurance.com/policyholders/policyholder-portal",
+            "website":"http://www.upcinsurance.com/"
+        }
+    },
+    "Western Assurance":{
+        "phone":{
+         "claim":" 1 (800) 387-2934",
+         "service":   "1 (800) 387-2934"
+        },
+        "links":{
+            "claim":"https://www.westernassurance.ca/WA/En/Default.asp?File=ReportClaim.htm",
+            "Billing":"https://westernassurance.rsaebusiness.ca/j_eselect/app/pay;jsessionid=4F9zLndayXFt-ptx8L63aXOs.prod1-webeselect?execution=e1s1",
+            "website":"https://www.westernassurance.ca/wa/En"
+        }
+    },
+    "Zurich Insurance":{
+        "phone":{
+         "claim":" 1 (800) 987-3373",
+         "service":   "1 (800) 382-2150"
+        },
+        "links":{
+            "claim":"https://www.zurichna.com/en/claims",
+            "Billing":"https://secure4.billerweb.com/zur/inetSrv",
+            "website":"https://www.zurichna.com/en"
+        }
+    }
+}

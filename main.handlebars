@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/anass-boukili/bot-meeting-event-1pm', text: 'Schedule time with me', color: '#006bff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+</style>
+</head>
+<body>
+    <h1><p>Hi {{name}},</p></h1>
+    <p>Please Select date and time by clicking button below</p>
+<a href="https://calendly.com/anass-boukili/bot-meeting-event-1pm?name={{name}}&email={{email}}"><button class="button button1">Schedule Meeting</button></a>
+
+<p>Regards,</p>
+<p>Defy Insurance</p>
+</body>
+</html>
