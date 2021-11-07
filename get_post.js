@@ -50,7 +50,7 @@ async function create_person(name,email,phone,phone_mobile,phone_work){
 
       let personId=res.data.data.id
 
-      console.log("rtuening id :",personId)
+      console.log("Person is created")
   
       return personId
   
@@ -71,17 +71,28 @@ async function create_lead(lead_tittle,personId){
       });    
 }
 
-// create_lead("new test lead abakus",1)
-// create_deal("new deal",2,{})
-async function create_deal(deal_tittle,personId,additional_data){   
+async function create_deal(deal_tittle,personId,additional_data,productName){   
+    if(productName=="hauskauf"||"Baufi Kau"){
+      var tag='HK'
+    }
+    else if (productName=="hausbau"||"Baufi Bau"){
+      var tag='HB'
+    }
+    else if(productName=="umschuldung"||"Baufi Um"){
+      var tag='UM'
+    }
+    else{
+      var tag='HK'
+    }
+
     let body={
         "title":deal_tittle,
         "person_id": personId,
         "stage_id":23,
         "ea15d3bd1de35f51470d6b2dbfa7edd6a4faac49":additional_data['Baufinanzierung fuer'] ? additional_data['Baufinanzierung fuer']:'not available',
-        "940847656a27dbd08f17eccf3fa1be9d1149974f":additional_data['HK Gesamtkosten'] ? additional_data['HK Gesamtkosten']:0,
-        "27ccb78c46d0581584f0fa8871cd644d379d5257":additional_data['HK Eigenkapital'] ? additional_data['HK Eigenkapital']:0,
-        "ac2fac98fc333d20ace33f56b9974c03008495c0":additional_data['HK Eigenleistung'] ? additional_data['HK Eigenleistung']:0,
+        "940847656a27dbd08f17eccf3fa1be9d1149974f":additional_data[`${tag} Gesamtkosten`] ? additional_data[`${tag} Gesamtkosten`]:0,
+        "27ccb78c46d0581584f0fa8871cd644d379d5257":additional_data[`${tag} Eigenkapital`] ? additional_data[`${tag} Eigenkapital`]:0,
+        "ac2fac98fc333d20ace33f56b9974c03008495c0":additional_data[`${tag} Eigenleistung`] ? additional_data[`${tag} Eigenleistung`]:0,
         "2938266251f47ba7cff9ee3eb4660cc3c567bd72":additional_data['Finanzierungsobjekt vorhanden'] ? additional_data['Finanzierungsobjekt vorhanden']:'not available',
         "d645c0b8f941f6eb49cb815095abdaaec44a1579":additional_data['Finanzierungsobjekt Strasse Hausnummer'] ? additional_data['Finanzierungsobjekt Strasse Hausnummer'] :'not available' ,
         "5c920391d526f35de455a73a5cc0907a9781841d":additional_data['Finanzierungsobjekt PLZ'] ? additional_data['Finanzierungsobjekt PLZ']:0,
@@ -134,13 +145,11 @@ async function create_deal(deal_tittle,personId,additional_data){
 
       let dealId=res.data.data.id
 
-      // console.log("rtuening id :",body)
+      console.log("Deal is created")
   
       return dealId
   
 }
-
-
 
 async function create_note_inside_deal(content,dealId){
     let body={

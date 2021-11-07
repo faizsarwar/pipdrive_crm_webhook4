@@ -33,13 +33,14 @@ app.post("/webhook",express.json(),async (request,response)=>{
         //creatring lead
 
         console.log("Person Id is this "+personId)
+        
         await get_post.create_lead(lead_name , personId)
         
 
         //creating deal
         let deal_tittle=person_name+" "+productName;
 
-        let dealId=await get_post.create_deal(deal_tittle,personId,additional_data)
+        let dealId=await get_post.create_deal(deal_tittle,personId,additional_data,productName)
 
         // console.log(lead_name,deal_tittle)
 
