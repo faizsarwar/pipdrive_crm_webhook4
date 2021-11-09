@@ -17,7 +17,7 @@ async function get_person(){
 
 }
 
-async function create_person(name,email,phone,phone_mobile,phone_work){
+async function create_person(name,email,phone,phone_mobile,phone_work,anrede,state,postal_code){
     let body={
         "name": name,
         "email": email,
@@ -34,7 +34,10 @@ async function create_person(name,email,phone,phone_mobile,phone_work){
             "label":"phone",
             "value": phone
         }
-        ]
+        ],
+        "229a827a9abe4ec939bf277ca37cb973bdad6314":anrede,
+        "5c217a1775fd29774719caf1b91d0bfc1cbb12cf":state,
+        "4218f297cc45c4486620d2bb983131ad322eb19e":postal_code
       }
   
       const res= await axios({
@@ -98,7 +101,7 @@ async function create_deal(deal_tittle,personId,additional_data,productName){
         "5c920391d526f35de455a73a5cc0907a9781841d":additional_data['Finanzierungsobjekt PLZ'] ? additional_data['Finanzierungsobjekt PLZ']:0,
         "0c9b170f09acc8ac9626f7b9ca148915186fda85":additional_data['Beleihungswert'] ? additional_data['Beleihungswert']:0,
         "f21fc2b9dff071d92396b9fe54b4aa4119ce1cb2":additional_data['Finanzierungsobjekt Ort'] ? additional_data['Finanzierungsobjekt Ort']:'not available',
-        "76a83d41aa4974aa8be93c0b673bb23ded565ed4":additional_data['Finanzierungsbedarf'] ? additional_data['Finanzierungsbedarf']:0,
+        "76a83d41aa4974aa8be93c0b673bb23ded565ed4":additional_data['Finanzierungsbetrag'] ? additional_data['Finanzierungsbetrag']:0,
         "1f89ccfd74eba4ed07fe5a1a14a38bffc5903503":additional_data['mtl finanzielle belastung'] ? additional_data['mtl finanzielle belastung']:0,
         "614f340d44a2c16ad4c9349217baa1a0867a4272":additional_data['Hypotheken vorhanden'] ? additional_data['Hypotheken vorhanden']:'not available',
         "314d8efb0494571ac964b5d6db14f1f6575388d8":additional_data['Hypotheken Umfang'] ? additional_data['Hypotheken Umfang']:'not available',
@@ -118,18 +121,21 @@ async function create_deal(deal_tittle,personId,additional_data,productName){
         "6cc87eea6a70a0ccb8c51188dadd7c6a95a17152":additional_data['Geburtsjahr Kind 4'] ? additional_data['Geburtsjahr Kind 4']:'not available',
         "3dcc4b239b397601c41424a542ae1f4676884db3":additional_data['Geburtsjahr Kind 5'] ? additional_data['Geburtsjahr Kind 5']:'not available',
         "75a2735772ecc4208b88c5a2ce85b7a1c5ad4fec":additional_data['Mieteinnahmen kalt'] ? additional_data['Mieteinnahmen kalt']:0,
-        "e4c2a41b3ff93b95db2b0f448f3662608549c927":additional_data.Einnahme1 ? additional_data.Einnahme1:'not available',
-        "eedeba916ad90f6286368946d540df4b738082d5":additional_data.Einnahme2 ? additional_data.Einnahme2:'not available',
-        "30799ce89bc978cc1701cc4653861cfaabe7cb9e":additional_data.Einnahme3 ? additional_data.Einnahme3:'not available',
-        "afde83de3ce21b3808ef65945aa5fd126f85b955":additional_data.Einnahme4 ? additional_data.Einnahme4:'not available',
-        "b15ae177d70745026b5d469b3957a4d71277c5c1":additional_data.Ausgabe1 ? additional_data.Ausgabe1:'not available',
-        "a2f7c5c9d77a58d580528c5453cc760994ff9739":additional_data.Ausgabe2 ? additional_data.Ausgabe2:'not available',
-        "67b11f115db8c592c3125354c7880a7285a9247d":additional_data.Ausgabe3 ? additional_data.Ausgabe3:'not available',
-        "47865f625edbea1cadd31fea9cb8c1673fc3bf52":additional_data.Ausgabe4 ? additional_data.Ausgabe4:'not available',
-        "fd35ef9d15f99155705339ad06aedd643c07abf3":additional_data['sonstige Posten1'] ? additional_data['sonstige Posten1']:'not available',
-        "7c8a38c25a24ba47a53fd814c76c9334be190f73":additional_data['sonstige Posten3'] ? additional_data['sonstige Posten3']:'not available',
-        "b273d747de6b7f853d082ff8050ee902530605d5":additional_data['sonstige Posten4'] ? additional_data['sonstige Posten4']:'not available',
-        "f12f977ea241ab6123be82985b6216d3d75bc7b0":additional_data['Anmerkungen Wuensche'] ? additional_data['Anmerkungen Wuensche']:'not available'
+        "e4c2a41b3ff93b95db2b0f448f3662608549c927":additional_data.Einnahme1 ? additional_data.Einnahme1:additional_data['Einnahme 1'],
+        "eedeba916ad90f6286368946d540df4b738082d5":additional_data.Einnahme2 ? additional_data.Einnahme2:additional_data['Einnahme 2'],
+        "30799ce89bc978cc1701cc4653861cfaabe7cb9e":additional_data.Einnahme3 ? additional_data.Einnahme3:additional_data['Einnahme 3'],
+        "afde83de3ce21b3808ef65945aa5fd126f85b955":additional_data.Einnahme4 ? additional_data.Einnahme4:additional_data['Einnahme 4'],
+        "b15ae177d70745026b5d469b3957a4d71277c5c1":additional_data.Ausgabe1 ? additional_data.Ausgabe1:additional_data['Ausgabe 1'],
+        "a2f7c5c9d77a58d580528c5453cc760994ff9739":additional_data.Ausgabe2 ? additional_data.Ausgabe2:additional_data['Ausgabe 2'],
+        "67b11f115db8c592c3125354c7880a7285a9247d":additional_data.Ausgabe3 ? additional_data.Ausgabe3:additional_data['Ausgabe 3'],
+        "47865f625edbea1cadd31fea9cb8c1673fc3bf52":additional_data.Ausgabe4 ? additional_data.Ausgabe4:additional_data['Ausgabe 4'],
+        "fd35ef9d15f99155705339ad06aedd643c07abf3":additional_data['sonstige Posten1'] ? additional_data['sonstige Posten1']:additional_data['sonstige Posten 1'],
+        "7c8a38c25a24ba47a53fd814c76c9334be190f73":additional_data['sonstige Posten2'] ? additional_data['sonstige Posten2']:additional_data['sonstige Posten 2'],
+        "19274f4885de6bba616b57b5a1ab75349507c4b0":additional_data['sonstige Posten3'] ? additional_data['sonstige Posten3']:additional_data['sonstige Posten 3'],
+        "b273d747de6b7f853d082ff8050ee902530605d5":additional_data['sonstige Posten4'] ? additional_data['sonstige Posten4']:additional_data['sonstige Posten 4'],
+        "f12f977ea241ab6123be82985b6216d3d75bc7b0":additional_data['Anmerkungen Wuensche'] ? additional_data['Anmerkungen Wuensche']:'not available',
+        "15c5f11540d541d26deab5dbfe4ba9628a94c70a":productName,
+        
       }
       
       const res= await axios({
@@ -167,7 +173,6 @@ async function create_note_inside_deal(content,dealId){
 }
 
 
-// create_note_inside_deal("new note",850)
 
-//850
+// create_note_inside_deal("new note",850)
 module.exports={create_deal,create_lead,create_person,create_note_inside_deal}

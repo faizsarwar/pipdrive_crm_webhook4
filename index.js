@@ -22,11 +22,14 @@ app.post("/webhook",express.json(),async (request,response)=>{
         let person_addtime=request.body.data.created_at;
         let productName=request.body.data.product.name;
         let additional_data=request.body.data.additional
+        let anrede=additional_data['Anrede MAS']
+        let street=additional_data['Strasse MAS']
+        let zip_code=request.body.data.customer.zip_code + ' ' + request.body.data.customer.city
     
         // get_post.create_person(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
         console.log(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
         
-        let personId=await get_post.create_person(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
+        let personId=await get_post.create_person(person_name,person_email,person_phone,person_mobile_phone,person_work_phone,anrede,street,zip_code)
 
         let lead_name=person_name+" Lead"
 
