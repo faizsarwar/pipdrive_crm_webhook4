@@ -91,6 +91,7 @@ async function create_deal(deal_tittle,personId,additional_data,productName){
     let body={
         "title":deal_tittle,
         "person_id": personId,
+        "value":additional_data['Finanzierungsbetrag'],
         "stage_id":23,
         "ea15d3bd1de35f51470d6b2dbfa7edd6a4faac49":additional_data['Baufinanzierung fuer'] ? additional_data['Baufinanzierung fuer']:'not available',
         "940847656a27dbd08f17eccf3fa1be9d1149974f":additional_data[`${tag} Gesamtkosten`] ? additional_data[`${tag} Gesamtkosten`]:0,
