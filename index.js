@@ -22,10 +22,8 @@ app.post("/webhook",express.json(),async (request,response)=>{
         let person_addtime=request.body.data.created_at;
         let productName=request.body.data.product.name;
         let additional_data=request.body.data.additional
-        // let anrede=additional_data['Anrede MAS']
-        let anrede=request.body.data.customer.tittle
-        // let street=additional_data['Strasse MAS']
-        let street=request.body.data.customer.street
+        let anrede=additional_data['Anrede MAS']
+        let street=additional_data['Strasse MAS']
         let zip_code=request.body.data.customer.zip_code + ' ' + request.body.data.customer.city
     
         // get_post.create_person(person_name,person_email,person_phone,person_mobile_phone,person_work_phone)
@@ -52,14 +50,18 @@ app.post("/webhook",express.json(),async (request,response)=>{
 
         //creating note
 
-    
-        let sliced_note=''
 
-        let additional_data =myobj.data.additional
-        for (i in additional_data){
-        sliced_note+=i+" :  "+additional_data[i]+"\n"
+        let additional_note=request.body.data.additional;
+        let sliced_note=''
+        for (i in additional_note){
+            console.log(i+" :  "+additional_note[i]) 
+            sliced_note+=i+" :  "+additional_note[i]
+            sliced_note+="\n"
         }
+
             
+
+        console.log(sliced_note)
 
         await get_post.create_note_inside_deal(sliced_note,dealId)
     
